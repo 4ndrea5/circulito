@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Circulo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Circulo 1.0-SNAPSHOT API'
+circulo
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/src/main/java = 1610094452000
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/tag-search-index.js = 1653082508493
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/overview-tree.html = 1653082508430
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/module-search-index.js = 1653082508489
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/index.html = 1653082508523
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/package-search-index.js = 1653082508490
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/jquery-ui.overrides.css = 1653082508564
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/index-all.html = 1653082508520
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/allpackages-index.html = 1653082508487
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/member-search-index.js = 1653082508492
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/script.js = 1653082508534
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/stylesheet.css = 1653082508531
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/help-doc.html = 1653082508529
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/element-list = 1653082508381
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/allclasses-index.html = 1653082508482
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/type-search-index.js = 1653082508491
+/Volumes/secondary/Documents/Ciclo dam/asignaturas primero/contornos de desenvolvemento/tercer_trimestre/entregas/ud4/Circulo/target/site/apidocs/search.js = 1653082508538
